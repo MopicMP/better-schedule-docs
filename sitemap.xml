@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/schedule-every.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/schedule-run-pending.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/schedule-clear.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/schedule-cancel-job.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/schedule-get-jobs.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/schedule-idle-seconds.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/job-do.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/job-at.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/job-until.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-schedule-docs/job-tag.html</loc><priority>0.8</priority></url>
+</urlset>
